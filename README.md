@@ -28,4 +28,5 @@ what are the colors of a rainbow, I forget.
 
 
 # links to blogs
+[name](blog url) <br>
 [yafira's blog ✿](https://electrocuteitp.wordpress.com/category/open-source-studio/)
